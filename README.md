@@ -1,7 +1,7 @@
 <h1 align="center">Hola! Soy Florencia Prados</h1>
 <h3 align="center">Avocada al desarrollo Backend</h3>
 
-- 🌱 Me encuentro capacitándome en **C#, ASP.NET,SQL server, Entity Framework, MongoDB**
+- 🌱 Me encuentro capacitándome en **C#, ASP.NET,SQL server, Entity Framework..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
