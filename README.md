@@ -1,5 +1,5 @@
 <h3 align="center">Avocada al desarrollo Backend</h3>
-- 🌱 Tengo conocimientos en .NET, BD rel y no rel (SQL server & MongoDB), EntityFramework.
+- 🌱 Tengo conocimientos en .NET, BD rel y no rel (SQL server & MongoDB), EntityFramework. <br>
 - Actualmente me encuentro capacitándome en Frontend con React.
 <h3 align="left">Mi red social:</h3>
 <p align="left">
